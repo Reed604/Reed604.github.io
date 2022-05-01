@@ -5,14 +5,14 @@ Hi, I am Reed Sanders and I am a Student at Bradley Univerity. I am curenntly ma
 # Here is a quick overview of past and present projects worked on by me.
 
 ## Current
--[CS 330 Final Project - TicTacToe](https://github.com/Reed604/CS-330-Final-Project).
--[Bash Bunny Scripts](https://github.com/Reed604/Bash-Bunny-Scrips.git).
-
+- [CS 330 Final Project - TicTacToe](https://github.com/Reed604/CS-330-Final-Project)
+- [Bash Bunny Scripts](https://github.com/Reed604/Bash-Bunny-Scrips.git)
+ 
 
 
 ## Completed
--[Hanoi Towers game](https://github.com/Reed604/Hanoi-Toweres).
--[Intro to Software Development Final Project - Password Vault](https://github.com/Reed604/Password-Vault.git).
+- [Hanoi Towers game](https://github.com/Reed604/Hanoi-Toweres)
+- [Intro to Software Development Final Project - Password Vault](https://github.com/Reed604/Password-Vault.git)
 
 
 
