@@ -22,4 +22,3 @@ Check out my whole GitHut account [Here](https://github.com/Reed604)
 - Favorite Cybersecurity Podcasts - [Risky Business from Patrick Gray](https://open.spotify.com/show/2jzD9zn7R2d6erZz2ULLeQ) & [DarkNet Diaries by Jack Rhysider](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5)
 - Where I find pentesting gear - [Hak5](https://shop.hak5.org/)
 - Favorite Youtube Channels - [David Bombal](https://www.youtube.com/c/DavidBombal) & [John Hammond](https://www.youtube.com/c/JohnHammond010)
-
