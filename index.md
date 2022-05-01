@@ -18,7 +18,7 @@ Hi, I am Reed Sanders and I am a Student at Bradley Univerity. I am curenntly ma
 Check out my whole GitHut account [Here](https://github.com/Reed604)
 
 
-# Cyber Secrurity Information I find interesting/useful
+# Cybersecrurity resources I find interesting/useful
 - Favorite Cybersecurity News source - [Krebs on Security](https://krebsonsecurity.com/)
 - Favorite Cybersecurity Podcasts - [Risky Business from Patrick Gray](https://open.spotify.com/show/2jzD9zn7R2d6erZz2ULLeQ) & [DarkNet Diaries by Jack Rhysider](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5)
 - Where I find pentesting gear - [Hak5](https://shop.hak5.org/)
