@@ -15,7 +15,7 @@ Hi, I am Reed Sanders and I am a Student at Bradley Univerity. I am curenntly ma
 
 
 
-Check out my whole GitHut account [Here](https://github.com/Reed604)
+Check out my whole GitHub account [Here](https://github.com/Reed604)
 
 
 # Cybersecrurity resources I find interesting/useful
